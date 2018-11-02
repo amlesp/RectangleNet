@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">RectangleNet</string>
+    <string name="select_option">Select Option</string>
+    <string name="ok">OK</string>
+    <string name="selection_rule">You can select only 2 rectangles. Click on selection to deselect.</string>
+    <string name="start">Start</string>
+    <string name="continue_game">Continue</string>
+    <string name="replace">Replace</string>
+    <string name="splash_msg">Have fun with RectangleNet App</string>
+    <string name="rows">rows</string>
+    <string name="columns">columns</string>
+    <string name="initial_set">Set number of rows and columns.</string>
+    <string name="insert_numb">Please, insert number of rows and columns to continue!</string>
+    <string name="rectangle_switch">You need to select 2 rectangles to make switch.</string>
+    <string name="check_internet">Check internet connection!</string>
+    <string name="columns_size"><![CDATA[Columns and rows must be > 0]]></string>
+</resources>

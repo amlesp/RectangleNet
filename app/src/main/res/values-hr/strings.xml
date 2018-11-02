@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RectangleNet</string>
+    <string name="select_option">Odaberi opciju</string>
+    <string name="ok">OK</string>
+    <string name="selection_rule">Možete odabrati samo dva pravokutnika. Kliknite na odabrani kako bi poništili odabir.</string>
+    <string name="start">Započni</string>
+    <string name="continue_game">Nastavi</string>
+    <string name="replace">Zamijeni</string>
+    <string name="splash_msg">Zabavite se uz RectangleNet aplikaciju!</string>
+    <string name="rows">broj redaka</string>
+    <string name="columns">broj kolona</string>
+    <string name="initial_set">Upišite broj redaka i kolona koji želite.</string>
+    <string name="insert_numb">Kako biste nastavili morate unijeti broj redaka i kolona!</string>
+    <string name="rectangle_switch">Potrebno je selektirati dva pravokutnika.</string>
+    <string name="check_internet">Provjeri internet konekciju!</string>
+    <string name="columns_size">Broj redaka i kolona mora biti veći od 0</string>
+</resources>
